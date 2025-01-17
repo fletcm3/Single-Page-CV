@@ -1,35 +1,20 @@
-# Single-Page-CV
+# Micheal Fletcher - Single Page CV
 
-## A fully functional example project written in order to  practice writing html
+## Description
+This project is a single-page CV for Micheal Fletcher, a Junior Front-End Developer. It highlights education, skills, and career history using semantic HTML, and includes meta tags for SEO and social media sharing.
 
-This is the intro paragaph that should have the details of the project
+## Project URL
+[View the CV Project](https://github.com/fletcm3/Single-Page-CV)
 
-*
-*
-*
-*
-*
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-## link to a demo that explains how the project works or diagram
-
-## how to install for users
-
-1.
-2.
-3.
-4.
-
-## how to tweak this project for users
-
-*   
-*
-*
-*
-
-## find a bug?
-
-*
-*
-*
-*
-*
+## Installation
+To view the CV locally, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/fletcm3/Single-Page-CV.git
